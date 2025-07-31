@@ -57,21 +57,6 @@ Dự án được tổ chức theo cấu trúc tiêu chuẩn của Unity:
 * `Packages/`: Các gói Unity được cài đặt.
 * `ProjectSettings/`: Các cài đặt dự án.
 
-## 🤝 Đóng góp
-
-Mặc dù đây là một dự án đồ án, nếu bạn có ý tưởng hoặc muốn đóng góp để cải thiện trò chơi, bạn có thể:
-
-1.  Fork kho lưu trữ này.
-2.  Tạo một nhánh mới (`git checkout -b feature/AmazingFeature`).
-3.  Thực hiện các thay đổi của bạn.
-4.  Commit các thay đổi của bạn (`git commit -m 'Add some AmazingFeature'`).
-5.  Đẩy lên nhánh (`git push origin feature/AmazingFeature`).
-6.  Mở một Pull Request.
-
-## 📄 Giấy phép
-
-Dự án này được cấp phép theo giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
-
 ## 📧 Liên hệ
 
 * **Nhóm phát triển:** Nhóm 1 (Trần Tuấn Anh, Nguyễn Hoàng Đức)
