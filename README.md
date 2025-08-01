@@ -64,9 +64,7 @@ Dự án được tổ chức theo cấu trúc tiêu chuẩn của Unity:
 
 ---
 
-### Báo cáo Đồ án Cơ sở
 
-Bạn có thể tìm thấy báo cáo chi tiết về dự án này tại [nhom1_DACS.docx](./nhom1_DACS.docx) trong kho lưu trữ. Báo cáo cung cấp thông tin chi tiết về đặt vấn đề, công cụ, thiết kế, triển khai, và các khía cạnh kỹ thuật khác của trò chơi.
 
 ---
 
